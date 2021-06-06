@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    text-align: center;
+    color: #40514e;
+    font-family: 'Ubuntu', sans-serif;
+    
+  }
+  
+  h1 {
+    color: #66bfbf;
+    font-size: 5.62rem;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+    font-family: 'Meriend' cursive;
+  }
+  
+  h2 {
+    
+  }
+  
+  h3 {
+    
+  }
+  p{
+    line-height: 2;
+  }
+  hr{
+    
+  }
+  a{
+    
+  }
+  
+    
+  .top-container{
+      background-color: #e4f9f5;
+      position: relative;
+      padding-top: 100px;
+  }
+  
+  .middle-container {
+    margin: 100px 0;
+  
+  }
+  
+  .bottom-container{
+    
+  
+  }
+  
+  .bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+    
+    
+  }
+  .contact-me{
+    
+    
+  }
+  .copyr{
+    
+    
+    
+  }
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+    
+    
+  }
+  .skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;  
+    
+    
+  }
+  .skill-images{
+    
+    
+    
+    
+  }
+  .intro{
+    
+    
+  }
+  .Memes{
+    
+    
+    
+  }
+  .profile-img{
+    border-radius: 100%;
+    
+  }
+  .myButton {
+      
+  }
+  .myButton:hover {
+      
+  }
+  .myButton:active {
+      
+  }
